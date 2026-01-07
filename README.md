@@ -20,7 +20,7 @@ memudahkan pengguna dalam mengakses fitur-fitur utama yang tersedia pada sistem.
   <img
     width="900"
     alt="Tampilan Halaman About Us HelloDoc"
-    src="https://github.com/user-attachments/assets/708e88cb-3b10-4856-8bc6-2341dded9c08"
+    src="about.png.png"
   >
 </p>
 
@@ -84,8 +84,34 @@ Our Doctors, pengguna dapat memilih dokter yang sesuai dengan kebutuhan medis
 dan merasa lebih percaya dan nyaman saat melakukan konsultasi atau perawatan
 melalui platform HelloDoc.
 
+<!-- Gambar Tampilan Halaman antrian -->
 
+<p align="center">
+  <img
+    width="900"
+    alt="Tampilan Halaman antrian HelloDoc"
+    src=""
+     >
+</p>
+<p align="center">
+  <b>Gambar 5.</b> Tampilan halaman antrian
+</p>
+<b>Penjelasan:</b><br>
+pada halaman home terdapat ambil antrian,nah sebelum pasien mengambil antrian maka akan diarahkan ke halaman berikut
 
+<!-- Gambar Tampilan Halaman login -->
+<p align="center">
+  <img
+    width="900"
+    alt="Tampilan Halaman login HelloDoc"
+    src=""
+     >
+</p>
+<p align="center">
+  <b>Gambar 6.</b> Tampilan halaman login
+</p>
+<b>Penjelasan:</b><br>
+sebelum pasien mengambil antrian pasien harus melakukan login terlebih dahulu
 
 
 
