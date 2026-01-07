@@ -43,7 +43,7 @@ meningkatkan kepercayaan pengguna.
   <img
     width="900"
     alt="Tampilan Halaman Services HelloDoc"
-    src="assets/service.png"
+    src="service.png.png"
   >
 </p>
 
@@ -61,6 +61,28 @@ memudahkan pengguna dalam memilih layanan kesehatan yang sesuai dengan
 kebutuhan mereka.
 </p>
 
+<!-- Gambar Tampilan Halaman Our Doctors -->
+<p align="center">
+  <img
+    width="900"
+    alt="Tampilan Halaman Our Doctors HelloDoc"
+    src=""
+  >
+</p>
+<p align="center">
+  <b>Gambar 4.</b> Tampilan halaman Our Doctors
+</p>
+<b>Penjelasan:</b><br>
+Halaman Our Doctors merupakan halaman yang menampilkan daftar dokter
+profesional yang tergabung dalam platform HelloDoc. Pada halaman ini,
+pengguna dapat melihat informasi penting mengenai dokter, seperti nama dokter,
+spesialisasi, pengalaman kerja, serta foto dokter.
+
+Halaman ini bertujuan untuk membantu pengguna dalam mengenal tenaga medis
+yang tersedia sebelum menggunakan layanan kesehatan. Dengan adanya halaman
+Our Doctors, pengguna dapat memilih dokter yang sesuai dengan kebutuhan medis
+dan merasa lebih percaya dan nyaman saat melakukan konsultasi atau perawatan
+melalui platform HelloDoc.
 
 
 
