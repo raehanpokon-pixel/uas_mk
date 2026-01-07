@@ -1,4 +1,62 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+<!-- Gambar Tampilan Halaman Utama -->
+<p align="center">
+  <img width="900" alt="Tampilan Halaman Utama"
+       src="https://github.com/user-attachments/assets/51d4ed7d-799c-40f4-adf2-5a13aaf9892c">
+</p>
+
+<p align="center">
+  <b>Gambar 1.</b> Tampilan halaman utama website
+</p>
+
+<p>
+<b>Penjelasan:</b><br>
+Halaman utama merupakan halaman awal yang ditampilkan ketika pengguna mengakses website.
+Pada halaman ini terdapat informasi umum serta menu navigasi yang berfungsi untuk
+memudahkan pengguna dalam mengakses fitur-fitur utama yang tersedia pada sistem.
+</p>
+
+<!-- Gambar Halaman About Us -->
+<p align="center">
+  <img
+    width="900"
+    alt="Tampilan Halaman About Us HelloDoc"
+    src="https://github.com/user-attachments/assets/708e88cb-3b10-4856-8bc6-2341dded9c08"
+  >
+</p>
+
+<p align="center">
+  <b>Gambar 2.</b> Tampilan halaman About Us
+</p>
+
+<p>
+<b>Penjelasan:</b><br>
+Halaman About Us merupakan halaman yang menampilkan informasi mengenai profil
+platform HelloDoc. Halaman ini menjelaskan tujuan website, layanan kesehatan yang
+disediakan, serta pengalaman dalam bidang pelayanan medis digital untuk
+meningkatkan kepercayaan pengguna.
+</p>
+
+<!-- Gambar Tampilan Halaman Services -->
+
+<p align="center">
+  <img width="900" src="![Services](https://github.com/user-attachments/assets/34930837-6863-4b3d-89bb-4bcb008458fd)
+" alt="Tampilan Halaman Services HelloDoc">
+</p>
+
+**Gambar 3. Tampilan halaman Services**
+
+**Penjelasan:**  
+Halaman Services merupakan halaman yang menampilkan berbagai layanan kesehatan
+yang disediakan oleh platform HelloDoc. Pada halaman ini pengguna dapat melihat
+jenis layanan seperti kunjungan dokter ke rumah, konsultasi online, perawatan luka,
+serta fisioterapi dan rehabilitasi. Informasi yang ditampilkan bertujuan untuk
+memudahkan pengguna dalam memilih layanan kesehatan yang sesuai dengan
+kebutuhan mereka.
+
+
+
+
+
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
