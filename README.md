@@ -1,7 +1,7 @@
 <!-- Gambar Tampilan Halaman Utama -->
 <p align="center">
   <img width="900" alt="Tampilan Halaman Utama"
-       src="https://github.com/user-attachments/assets/51d4ed7d-799c-40f4-adf2-5a13aaf9892c">
+       src="home.png.png">
 </p>
 
 <p align="center">
@@ -66,7 +66,7 @@ kebutuhan mereka.
   <img
     width="900"
     alt="Tampilan Halaman Our Doctors HelloDoc"
-    src=""
+    src="dokter.png.png"
   >
 </p>
 <p align="center">
