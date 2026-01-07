@@ -37,21 +37,30 @@ meningkatkan kepercayaan pengguna.
 </p>
 
 <!-- Gambar Tampilan Halaman Services -->
+<!-- Gambar Tampilan Halaman Services -->
 
 <p align="center">
-  <img width="900" src="![Services](https://github.com/user-attachments/assets/34930837-6863-4b3d-89bb-4bcb008458fd)
-" alt="Tampilan Halaman Services HelloDoc">
+  <img
+    width="900"
+    alt="Tampilan Halaman Services HelloDoc"
+    src="assets/service.png"
+  >
 </p>
 
-**Gambar 3. Tampilan halaman Services**
+<p align="center">
+  <b>Gambar 3.</b> Tampilan halaman Services
+</p>
 
-**Penjelasan:**  
+<p>
+<b>Penjelasan:</b><br>
 Halaman Services merupakan halaman yang menampilkan berbagai layanan kesehatan
 yang disediakan oleh platform HelloDoc. Pada halaman ini pengguna dapat melihat
 jenis layanan seperti kunjungan dokter ke rumah, konsultasi online, perawatan luka,
 serta fisioterapi dan rehabilitasi. Informasi yang ditampilkan bertujuan untuk
 memudahkan pengguna dalam memilih layanan kesehatan yang sesuai dengan
 kebutuhan mereka.
+</p>
+
 
 
 
