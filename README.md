@@ -90,7 +90,7 @@ melalui platform HelloDoc.
   <img
     width="900"
     alt="Tampilan Halaman antrian HelloDoc"
-    src=""
+    src="antrian.png.png"
      >
 </p>
 <p align="center">
@@ -104,7 +104,7 @@ pada halaman home terdapat ambil antrian,nah sebelum pasien mengambil antrian ma
   <img
     width="900"
     alt="Tampilan Halaman login HelloDoc"
-    src=""
+    src="login.png.png"
      >
 </p>
 <p align="center">
@@ -112,6 +112,31 @@ pada halaman home terdapat ambil antrian,nah sebelum pasien mengambil antrian ma
 </p>
 <b>Penjelasan:</b><br>
 sebelum pasien mengambil antrian pasien harus melakukan login terlebih dahulu
+
+<!-- Gambar Tampilan Halaman kontak-->
+<p align="center">
+  <img
+    width="900"
+    alt="Tampilan Halaman kontak HelloDoc"
+    src="kontak.png.png"
+     >
+</p>
+<p align="center">
+  <b>Gambar 7.</b> Tampilan halaman kontak
+</p>
+<b>Penjelasan:</b><br>
+Halaman Contact Us merupakan halaman yang berfungsi sebagai sarana komunikasi
+antara pengguna dengan pihak HelloDoc. Pada halaman ini tersedia berbagai
+informasi kontak yang dapat digunakan pengguna untuk menghubungi layanan
+HelloDoc, seperti alamat email, nomor telepon, dan alamat lokasi.
+
+Selain itu, halaman Contact Us juga dilengkapi dengan formulir pesan yang
+memungkinkan pengguna untuk mengirimkan pertanyaan, saran, maupun keluhan
+secara langsung. Dengan adanya halaman ini, pengguna dapat memperoleh bantuan
+dan informasi tambahan dengan lebih mudah, cepat, dan efisien, sehingga
+meningkatkan kualitas layanan dan kepercayaan pengguna terhadap platform
+HelloDoc.
+
 
 
 
